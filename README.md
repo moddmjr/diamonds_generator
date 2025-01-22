@@ -1,2 +1,4 @@
 # diamonds_generator
 Mobile legends uchun diamond generator
+
+cddaab24b1f0c9456282eb6bc93b09b636893f0a
